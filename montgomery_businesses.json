@@ -1,0 +1,384 @@
+[
+  {
+    "name": "FDA",
+    "lat": 39.0351,
+    "lng": -76.9805823,
+    "address": "10903 New Hampshire Ave, Silver Spring, MD 20903, United States"
+  },
+  {
+    "name": "Silver Spring Innovation Center",
+    "lat": 38.9892508,
+    "lng": -77.0269655,
+    "address": "8070 Georgia Ave, Silver Spring, MD 20910, United States"
+  },
+  {
+    "name": "DataBridge Sites, Silver Spring Data Center",
+    "lat": 39.058628,
+    "lng": -76.96429440000001,
+    "address": "12401 Prosperity Dr, Silver Spring, MD 20904, United States"
+  },
+  {
+    "name": "Mindoula Health",
+    "lat": 38.9891614,
+    "lng": -77.0272533,
+    "address": "8040 Georgia Ave Suite 170, Silver Spring, MD 20910, United States"
+  },
+  {
+    "name": "National Institutes of Health",
+    "lat": 39.0002973,
+    "lng": -77.1028602,
+    "address": "9000 Rockville Pike, Bethesda, MD 20892, United States"
+  },
+
+  {
+    "name": "Walter Reed National Military Medical Center",
+    "lat": 39.0016292,
+    "lng": -77.0935083,
+    "address": "4494 Palmer Rd N, Bethesda, MD 20814, United States"
+  },
+  {
+    "name": "Uniformed Services University",
+    "lat": 39.0017776,
+    "lng": -77.08642569999999,
+    "address": "4301 Jones Bridge Rd, Bethesda, MD 20814, United States"
+  },
+  {
+    "name": "Henry M Jackson Foundation for the Advancement of Military Medicine",
+    "lat": 39.0295855,
+    "lng": -77.1375729,
+    "address": "6720A Rockledge Dr, Bethesda, MD 20817, United States"
+  },
+  {
+    "name": "Marriott International",
+    "lat": 38.9879676,
+    "lng": -77.0951892,
+    "address": "7750 Wisconsin Ave, Bethesda, MD 20814, United States"
+  },
+  {
+    "name": "Intellian Technologies Inc.",
+    "lat": 39.0623598,
+    "lng": -77.15433650000001,
+    "address": "2600 Tower Oaks Blvd, Rockville, MD 20852, United States"
+  },
+  {
+    "name": "On Demand Pharmaceuticals",
+    "lat": 39.0952964,
+    "lng": -77.1324259,
+    "address": "1550 E Gude Dr, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "Maxim Biomedical, Inc.",
+    "lat": 39.0957724,
+    "lng": -77.13297419999999,
+    "address": "1500 E Gude Dr, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "Tetracore Inc",
+    "lat": 39.1123429,
+    "lng": -77.18501839999999,
+    "address": "77 Upper Rock Cir Suite 600, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "Aurinia Pharma",
+    "lat": 39.1123369,
+    "lng": -77.1850087,
+    "address": "77 Upper Rock Cir, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "ExeGi Pharma",
+    "lat": 39.112343,
+    "lng": -77.1850183,
+    "address": "77 Upper Rock Cir Suite #102, Rockville, MD 20850, United States"
+  }, 
+  {
+    "name": "Arcellx",
+    "lat": 39.1102309,
+    "lng": -77.181849,
+    "address": "800 King Farm Blvd, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "Institute for Health Computing",
+    "lat": 39.047493,
+    "lng": -77.126086,
+    "address": "6116 Executive Boulevard, North Bethesda, MD 20852"
+  },
+
+  {
+    "name": "Howard Hughes Medical Institute",
+    "lat": 38.998112,
+    "lng": -77.079712,
+    "address": "4000 Jones Bridge Rd, Chevy Chase, MD 20815, United States"
+  },
+  {
+    "name": "Greencourt Innovation Labs",
+    "lat": 39.059852,
+    "lng": -77.111978,
+    "address": "12358 Parklawn Dr, North Bethesda, MD 20852, United States"
+  },
+  {
+    "name": "United States Pharmacopeia",
+    "lat": 39.0629389,
+    "lng": -77.1157465,
+    "address": "12601 Twinbrook Pkwy, Rockville, MD 20852, United States"
+  },
+  {
+    "name": "The Universities at Shady Grove",
+    "lat": 39.0941938,
+    "lng": -77.2005936,
+    "address": "9630 Gudelsky Dr, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "MilliporeSigma (BioReliance)",
+    "lat": 39.094989,
+    "lng": -77.2045444,
+    "address": "9820 Darnestown Rd, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "GlaxoSmithKline (GSK)",
+    "lat": 39.0934474,
+    "lng": -77.2062672,
+    "address": "14200 Shady Grove Rd, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "National Cybersecurity Center of Excellence",
+    "lat": 39.0977971,
+    "lng": -77.2053043,
+    "address": "9700 Great Seneca Hwy, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "AstraZeneca Cell and Gene Therapy Buidling",
+    "lat": 39.097698,
+    "lng": -77.202118,
+    "address": "9950 Medical Center Dr, Rockville, MD, United States"
+  },
+  {
+    "name": "BioHub Education and Training Center at Montgomery County",
+    "lat": 39.09713,
+    "lng": -77.1539252,
+    "address": "9808 Medical Center Dr, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "Advanced BioScience Laboratories (ABL)",
+    "lat": 39.09532129999999,
+    "lng": -77.1980483,
+    "address": "9800 Medical Center Dr D, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "REGENXBIO Inc.",
+    "lat": 39.0962611,
+    "lng": -77.19600919999999,
+    "address": "9804 Medical Center Dr, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "MacroGenics, Inc",
+    "lat": 39.0996071,
+    "lng": -77.1938361,
+    "address": "9704 Medical Center Dr, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "National Cancer Institute - Shady Grove",
+    "lat": 39.1033791,
+    "lng": -77.1974149,
+    "address": "9609 Medical Center Dr, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "Tasly Pharmaceuticals, Inc",
+    "lat": 39.1033717,
+    "lng": -77.19227959999999,
+    "address": "9400 Key W Ave, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "MaxCyte, Inc",
+    "lat": 39.1042553,
+    "lng": -77.20498649999999,
+    "address": "9713 Key W Ave #400, Rockville, MD 20850, United States"
+  },
+  {
+    "name": "AstraZeneca R&D Headquarters",
+    "lat": 39.12536739999999,
+    "lng": -77.2330559,
+    "address": "1 Medimmune Way, Gaithersburg, MD 20878, United States"
+  },
+  {
+    "name": "National Institute of Standards & Technology",
+    "lat": 39.1401632,
+    "lng": -77.2184546,
+    "address": "100 Bureau Dr, Gaithersburg, MD 20899, United States"
+  },
+  {
+    "name": "Novavax, Inc.",
+    "lat": 39.1369744,
+    "lng": -77.2265347,
+    "address": "21 Firstfield Rd, Gaithersburg, MD 20878, United States"
+  },
+  {
+    "name": "Longhorn Vaccines & Diagnostics LLC",
+    "lat": 38.98399939999999,
+    "lng": -77.0957617,
+    "address": "2 Bethesda Metro Center, Bethesda, MD 20814, United States"
+  },
+  {
+    "name": "US Biomax, Inc.",
+    "lat": 39.1135089,
+    "lng": -77.1561031,
+    "address": "15879 Crabbs Branch Way, Derwood, MD 20855, United States"
+  },
+  {
+    "name": "MIMETAS Co",
+    "lat": 39.1371397,
+    "lng": -77.22389969999999,
+    "address": "704 Quince Orchard Rd Suite 260, Gaithersburg, MD 20878, United States"
+  },
+  {
+    "name": "BioNTech",
+    "lat": 39.1474822,
+    "lng": -77.2336373,
+    "address": "930 Clopper Rd, Gaithersburg, MD 20878, United States"
+  },
+  {
+    "name": "Saint Gobain Performance Plastics",
+    "lat": 39.1506123,
+    "lng": -77.23160089999999,
+    "address": "50 W Watkins Mill Rd, Gaithersburg, MD 20878, United States"
+  },
+  {
+    "name": "Vandstrom, Inc.",
+    "lat": 39.149967,
+    "lng": -77.2316477,
+    "address": "50 Watkins Mill Rd S101, Gaithersburg, MD 20878, United States"
+  },
+  {
+    "name": "Monument Innovation Center",
+    "lat": 39.1582538,
+    "lng": -77.2204824,
+    "address": "735 Watkins Mill Rd, Gaithersburg, MD 20879, United States"
+  },
+  {
+    "name": "Progress Labs at Progress Way",
+    "lat": 39.1516618,
+    "lng": -77.2151139,
+    "address": "700 Progress Way, Gaithersburg, MD 20813, United States"
+  },
+  {
+    "name": "HEMEMICS BIOTECHNOLOGIES, INC.",
+    "lat": 39.1614262,
+    "lng": -77.2278534,
+    "address": "401 Professional Dr STE 220, Gaithersburg, MD 20879, United States"
+  },
+  {
+    "name": "MAGBIO GENOMICS",
+    "lat": 39.1631552,
+    "lng": -77.2284787,
+    "address": "200 Professional Dr, Gaithersburg, MD 20879, United States"
+  },
+  {
+    "name": "Germantown Innovation Center",
+    "lat": 39.1868795,
+    "lng": -77.2454366,
+    "address": "20271 Goldenrod Ln 2nd Floor, Germantown, MD 20876, United States"
+  },
+  {
+    "name": "Montgomery College Pinkney Innovation Campus",
+    "lat": 39.193297,
+    "lng": -77.15826469999999,
+    "address": "Sciences and Applied Studies Building, Observation Dr, Germantown, MD 20876, United States"
+  },
+  {
+    "name": "Amarex Clinical Research LLC",
+    "lat": 39.188206,
+    "lng": -77.2602105,
+    "address": "20201 Century Blvd, Germantown, MD 20874, United States"
+  },
+  {
+    "name": "QIAGEN Sciences Inc",
+    "lat": 39.1739515,
+    "lng": -77.27683549999999,
+    "address": "19300 Germantown Rd, Germantown, MD 20874, United States"
+  },
+  {
+    "name": "Amador Bioscience",
+    "lat": 39.1915241,
+    "lng": -77.2657486,
+    "address": "20400 Century Blvd Suite 110, Germantown, MD 20874, United States"
+  },
+  {
+    "name": "SeraCare Life Sciences",
+    "lat": 39.1467811,
+    "lng": -77.23151279999999,
+    "address": "910 Clopper Rd, Gaithersburg, MD 20878, United States"
+  },
+  {
+    "name": "Zencore Biologics",
+    "lat": 39.1915419,
+    "lng": -77.2657022,
+    "address": "20400 Century Blvd, Germantown, MD 20874, USA"
+  },
+  {
+    "name": "Barinthus Biotherapeutics",
+    "lat": 39.1915419,
+    "lng": -77.2657022,
+    "address": "20400 Century Blvd, Germantown, MD 20874, USA"
+  },
+  {
+    "name": "Senseonics, Inc.",
+    "lat": 39.1930286,
+    "lng": -77.2567303,
+    "address": "20451 Seneca Meadows Pkwy, Germantown, MD 20876, United States"
+  },
+  {
+    "name": "Deka Biosciences, Inc",
+    "lat": 39.1885164,
+    "lng": -77.2560371,
+    "address": "20378 Seneca Meadows Pkwy, Germantown, MD 20876, United States"
+  },
+  {
+    "name": "Precigen, Inc.",
+    "lat": 39.1887582,
+    "lng": -77.2558312,
+    "address": "20358 Seneca Meadows Pkwy, Germantown, MD 20876, United States"
+  },
+  {
+    "name": "uBriGene Biosciences Inc.",
+    "lat": 39.19148819999999,
+    "lng": -77.2657869,
+    "address": "20400 Century Blvd Suite 125, Germantown, MD 20874, United States"
+  },
+  {
+    "name": "BlueHalo",
+    "lat": 39.1074725,
+    "lng": -77.15004429999999,
+    "address": "15400 Calhoun Dr #190, Rockville, MD 20855, United States"
+  },
+  {
+    "name": "Hughes Network Systems, LLC",
+    "lat": 39.210218,
+    "lng": -77.239729,
+    "address": "11717 Exploration Lane, Germantown, MD 20876, United States"
+  },
+  {
+    "name": "Learning Undefeated",
+    "lat": 39.1165421,
+    "lng": -77.2005128,
+    "address": "9841 Washingtonian Blvd., Gaithersburg, MD 20878, United States"
+  },
+  {
+    "name": "NIH - GAithersburg",
+    "lat": 39.1483254,
+    "lng": -77.2337239,
+    "address": "9 W Watkins Mill Rd, Gaithersburg, MD 20878, United States"
+  },
+
+  {
+    "name": "Viva White Oak",
+    "lat": 39.048187,
+    "lng": -76.952343,
+    "address": "11700 Cherry Hill Rd, Silver Spring, MD 20904, United States"
+  },
+
+  {
+    "name": "Linden Lake Venture Capital",
+    "lat": 38.9983415,
+    "lng": -77.1420789,
+    "address": "8711 Bellwood Road, Bethesda, MD 20817, United States of America"
+  }
+]
